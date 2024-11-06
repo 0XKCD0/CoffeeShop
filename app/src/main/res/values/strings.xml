@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="search_anything">Search anything....</string>
+    <string name="good_morning">Good Morning</string>
+</resources>
